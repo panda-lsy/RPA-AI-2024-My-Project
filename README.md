@@ -1,2 +1,5 @@
-# RPA-AI-2024-My-Project
-2024 Hainan Provincial Student RPA+AI Innovation Challenge’ Provincial Second Prize Project Work：AI-driven social media hotspot tracking and analysis system project
+# 仓库介绍
+2024年海南省大学生RPA+AI创新挑战赛 省级二等奖项目 **《AI驱动的社交媒体热点追踪与分析系统》**
+# 如何下载
+项目文档/PPT/代码截图都在项目源码的文件夹中,请根据分类下载。
+# 项目代码
